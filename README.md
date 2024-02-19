@@ -42,7 +42,7 @@ $ flask run
 
 #### This shows how to Update the product into the product Table using postman
 
-![screenshot for project](screenshots/updateproduct.png"This shows how to Update the product into the product Table using postman")
+![screenshot for project](screenshots/updateproduct.png "This shows how to Update the product into the product Table using postman")
 
 #### This shows how to add sale into the Sale Table using postman
 
